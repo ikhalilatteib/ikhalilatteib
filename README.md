@@ -44,6 +44,6 @@
 </p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between">
-<p style="background-image: url('https://github-readme-stats.vercel.app/api?username=ikhalilatteib&show_icons=true&locale=en');background-size: contain;background-repeat: no-repeat ;flex: 0 0 49%; max-width: 49%; position: relative; width: 100%; height: 194px;"></p>
-<p style="background-image: url('https://github-readme-streak-stats.herokuapp.com/?user=ikhalilatteib&');background-size: contain;background-repeat: no-repeat ;flex: 0 0 49%; max-width: 49%; position: relative; width: 100%;height: 194px;"> </p>
+<p style="flex: 0 0 49%; max-width: 49%; position: relative; width: 100%; height: 194px;"><img src="https://github-readme-stats.vercel.app/api?username=ikhalilatteib&show_icons=true&locale=en" alt="ikhalilatteib"></p>
+<p style="flex: 0 0 49%; max-width: 49%; position: relative; width: 100%;height: 194px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ikhalilatteib&" alt="ikhalilatteib"> </p>
 </div>

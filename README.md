@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://jibaleysolution.fra1.cdn.digitaloceanspaces.com/file/1_OohqW5DGh9CQS4hLY5FXzA.png" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm IBRAHIM, a passionate backend developer 👨‍💻 </div>  
+<div> <h1 align="center;">I'm IBRAHIM</h1> <span> A passionate backend developer 👨‍💻 </span>  </div>
   
 
 <br/>  
@@ -62,7 +62,7 @@
 <a href="https://gitlab.com/ikhalilatteib" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/ikhalilatteib" target="_blank">
+<a href="https://medium.com/@ikhalilatteib" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  

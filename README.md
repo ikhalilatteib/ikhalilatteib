@@ -44,6 +44,6 @@
 </p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between">
-<p style="flex: 0 0 33%; max-width: 33%; position: relative; width: 100%; height: 194px;"><img src="https://github-readme-stats.vercel.app/api?username=ikhalilatteib&show_icons=true&locale=en" alt="ikhalilatteib"></p>
-<p style="flex: 0 0 33%; max-width: 33%; position: relative; width: 100%;height: 194px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ikhalilatteib&" alt="ikhalilatteib"> </p>
+<p style="flex: 0 0 100%; max-width: 100%; position: relative; width: 100%; height: 194px;"><img src="https://github-readme-stats.vercel.app/api?username=ikhalilatteib&show_icons=true&locale=en" alt="ikhalilatteib"></p>
+<p style="flex: 0 0 100%; max-width: 100%; position: relative; width: 100%;height: 194px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ikhalilatteib&" alt="ikhalilatteib"> </p>
 </div>

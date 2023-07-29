@@ -3,7 +3,7 @@
 </div>  
   
 
-<div> <h1 align="center;">I'm IBRAHIM</h1> <span> A passionate backend developer 👨‍💻 </span>  </div>
+<div> <h1 align="center;">I'm Ikay</h1> <span> A passionate backend developer 👨‍💻 </span>  </div>
   
 
 <br/>  
